@@ -3,7 +3,7 @@
 ## 📚 Sujet du TP
 Ce TP porte sur l'utilisation des arbres de décision pour résoudre des problèmes de classification et de régression en utilisant Scikit-learn.
 
-> 📄 Sujet officiel du TP : [TP3_Arbre_de_décision.pdf](TP3_Arbre_de_décision.pdf)
+> 📄 Sujet officiel du TP : [TP3_Arbre_de_décision.pdf](./TP3_Arbre_de_décision.pdf)
 
 ## 🧪 Contenu
 
@@ -31,10 +31,5 @@ Le TP est divisé en **3 exercices**, chacun dans un notebook distinct :
 - Visualisation des arbres
 - Analyse des performances (accuracy, recall, F1-score, R², RMSE)
 - Recherche d’hyperparamètres optimaux
-
-## 👤 Auteur
-Nom Prénom – [Ton profil GitHub](https://github.com/TON_UTILISATEUR)
-
----
 
 > 🔗 Sujet du TP : [Lien PDF](./TP3_Arbre_de_décision.pdf)
